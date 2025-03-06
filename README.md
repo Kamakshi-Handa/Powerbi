@@ -23,3 +23,15 @@ Data Modeling:
 * Create relationships between tables if necessary.
 Define calculated columns or measures for more complex calculations.
 DAX measures used like SUM, SUMX, COUNT, IF, CALCULATE, FILTER, DIVIDE, AVERAGE
+* Data Visualization:
+
+Used the various visualizations available in Power BI, such as bar charts, pie charts, tables, and maps, to represent the data in a meaningful way.
+Used Key Influencers AI Visual, Slicers, and KPIs.
+
+
+* Customization and Formatting:
+
+Customize the visuals, add titles, and format your report to make it visually appealing and easy to understand.
+* Interactivity:
+
+Add filters, slicers, and other interactive elements to allow users to explore the data.
