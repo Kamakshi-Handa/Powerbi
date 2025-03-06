@@ -1,6 +1,6 @@
 # Powerbi
-This README file provides an overview of the Home Loan dataset and instructions on how to use Power BI for data visualization. The dataset contains information about customers, loan applications, sanctioned amounts, recovery amounts, products, and channel IDs.
-Dataset Description
+This README file provides an overview of the Home Loan dataset and instructions on how to use Power BI for data visualization. The dataset contains information about customers, loan applications, sanctioned amounts, recovery amounts, products, and channel IDs
+# Dataset Description
 The Home Loan dataset consists of the following columns:
 
 Customer ID: A unique identifier for each customer.
